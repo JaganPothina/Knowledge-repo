@@ -23,4 +23,4 @@ delete-cluster:
 destroy:	
 	make delete-cluster
  
-PHONY: create-cluster delete-cluster install-ingress check-pods destroy
+PHONY: create-cluster install-ingress check-pods delete-cluster destroy
