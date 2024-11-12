@@ -28,6 +28,5 @@ destroy:
  
 PHONY: create-cluster delete-cluster install-ingress check-pods destroy
  
-                                                                                                    
-has context menu
+                                                                                                  
 
