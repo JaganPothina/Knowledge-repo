@@ -10,7 +10,7 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   storageClassName: manual
   hostPath:
-    path: /home/ubuntu/project/wp-data 
+    path: /home/jpothina/wordpress-Application
 
 ---
 apiVersion: v1
